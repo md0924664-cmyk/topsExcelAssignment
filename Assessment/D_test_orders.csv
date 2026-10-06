@@ -1,0 +1,12 @@
+OrderID,CustomerName,Cuisine,DeliveryTime,Revenue
+1001,Aarav Sharma,North Indian,35,450
+1002,Priya Patel,Chinese,48,380
+1003,Rohan Mehta,North Indian,72,
+1004,Sneha Iyer,Fast Food,22,210
+1005,Vikram Singh,South Indian,-5,300
+1006,Anjali Verma,Chinese,55,
+1007,Karan Malhotra,Fast Food,31,260
+1008,Neha Gupta,South Indian,40,
+1009,Rahul Joshi,North Indian,65,520
+,,,,
+1010,Pooja Nair,Chinese,28,340

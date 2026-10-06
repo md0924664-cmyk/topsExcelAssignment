@@ -1,0 +1,121 @@
+OrderID,RestaurantID,Cuisine,Zone,OrderDate,DeliveryTime,Rating,Revenue,Status,RestaurantName,Category,Orders,Outlier Flag
+ORD-1001,R002,Chinese,North,2026-07-01,26,4,250,Delivered,Wok This Way,Cloud Kitchen,1,No
+ORD-1002,R015,South Indian,West,2026-07-01,27,5,310,Delivered,Filter Coffee & Meals,Dine-in,1,No
+ORD-1003,R015,South Indian,West,2026-07-02,25,4,165,Delivered,Filter Coffee & Meals,Dine-in,1,No
+ORD-1004,R003,Fast Food,North,2026-07-03,25,5,525,Delivered,Burger Barn,QSR,1,No
+ORD-1005,R019,South Indian,Central,2026-07-04,29,5,390,Delivered,Sambar Spot,Cloud Kitchen,1,No
+ORD-1006,R019,South Indian,Central,2026-07-04,33,4,525,Delivered,Sambar Spot,Cloud Kitchen,1,No
+ORD-1007,R010,Chinese,East,2026-07-04,36,5,300,Delivered,Dragon Bowl,Dine-in,1,No
+ORD-1008,R016,Fast Food,West,2026-07-08,15,5,180,Delivered,Wrap & Roll,QSR,1,No
+ORD-1009,R019,South Indian,Central,2026-07-08,46,4,405,Delayed,Sambar Spot,Cloud Kitchen,1,No
+ORD-1010,R007,North Indian,South,2026-07-09,20,5,395,Delivered,Punjabi Dhaba Express,QSR,1,No
+ORD-1011,R002,Chinese,North,2026-07-10,28,5,470,Delivered,Wok This Way,Cloud Kitchen,1,No
+ORD-1012,R010,Chinese,East,2026-07-10,43,3,325,Delivered,Dragon Bowl,Dine-in,1,No
+ORD-1013,R006,Chinese,South,2026-07-11,28,5,420,Delivered,Noodle Nest,QSR,1,No
+ORD-1014,R016,Fast Food,West,2026-07-14,33,5,550,Delivered,Wrap & Roll,QSR,1,No
+ORD-1015,R007,North Indian,South,2026-07-15,24,5,705,Delivered,Punjabi Dhaba Express,QSR,1,No
+ORD-1016,R011,South Indian,East,2026-07-15,36,4,390,Delivered,Idli Express,QSR,1,No
+ORD-1017,R015,South Indian,West,2026-07-16,20,4,615,Delivered,Filter Coffee & Meals,Dine-in,1,No
+ORD-1018,R011,South Indian,East,2026-07-16,49,5,715,Delayed,Idli Express,QSR,1,No
+ORD-1019,R009,North Indian,East,2026-07-17,30,4,920,Delivered,Masala Mantra,Cloud Kitchen,1,No
+ORD-1020,R016,Fast Food,West,2026-07-17,29,5,930,Delivered,Wrap & Roll,QSR,1,No
+ORD-1021,R006,Chinese,South,2026-07-18,31,4,475,Delivered,Noodle Nest,QSR,1,No
+ORD-1022,R003,Fast Food,North,2026-07-18,28,4,650,Delivered,Burger Barn,QSR,1,No
+ORD-1023,R004,South Indian,North,2026-07-20,31,5,555,Delivered,Dosa Dynasty,Dine-in,1,No
+ORD-1024,R012,Fast Food,East,2026-07-20,55,3,765,Delayed,Crispy Crunch,Cloud Kitchen,1,Yes
+ORD-1025,R001,North Indian,North,2026-07-21,51,4,335,Delayed,Tandoori Tales,Dine-in,1,Yes
+ORD-1026,R001,North Indian,North,2026-07-21,28,5,505,Delivered,Tandoori Tales,Dine-in,1,No
+ORD-1027,R019,South Indian,Central,2026-07-25,29,4,275,Delivered,Sambar Spot,Cloud Kitchen,1,No
+ORD-1028,R003,Fast Food,North,2026-07-25,26,5,1115,Delivered,Burger Barn,QSR,1,No
+ORD-1029,R020,Fast Food,Central,2026-07-26,36,5,315,Delivered,Fries & Fizz,QSR,1,No
+ORD-1030,R001,North Indian,North,2026-07-26,39,5,120,Delivered,Tandoori Tales,Dine-in,1,No
+ORD-1031,R010,Chinese,East,2026-07-28,41,4,665,Delivered,Dragon Bowl,Dine-in,1,No
+ORD-1032,R014,Chinese,West,2026-07-28,19,5,485,Delivered,Chopstick Corner,Cloud Kitchen,1,No
+ORD-1033,R016,Fast Food,West,2026-07-29,29,5,525,Delivered,Wrap & Roll,QSR,1,No
+ORD-1034,R008,Fast Food,South,2026-07-30,34,5,345,Delivered,Pizza Plaza,Dine-in,1,No
+ORD-1035,R006,Chinese,South,2026-07-31,31,5,340,Delivered,Noodle Nest,QSR,1,No
+ORD-1036,R009,North Indian,East,2026-08-01,29,5,305,Delivered,Masala Mantra,Cloud Kitchen,1,No
+ORD-1037,R007,North Indian,South,2026-08-01,27,4,305,Delivered,Punjabi Dhaba Express,QSR,1,No
+ORD-1038,R013,North Indian,West,2026-08-02,23,5,305,Delivered,Royal Biryani House,Dine-in,1,No
+ORD-1039,R010,Chinese,East,2026-08-03,42,4,335,Delivered,Dragon Bowl,Dine-in,1,No
+ORD-1040,R006,Chinese,South,2026-08-03,74,4,520,Delayed,Noodle Nest,QSR,1,Yes
+ORD-1041,R010,Chinese,East,2026-08-03,50,5,960,Delayed,Dragon Bowl,Dine-in,1,Yes
+ORD-1042,R011,South Indian,East,2026-08-04,39,5,575,Delivered,Idli Express,QSR,1,No
+ORD-1043,R020,Fast Food,Central,2026-08-04,48,4,755,Delayed,Fries & Fizz,QSR,1,No
+ORD-1044,R010,Chinese,East,2026-08-07,33,4,425,Delivered,Dragon Bowl,Dine-in,1,No
+ORD-1045,R020,Fast Food,Central,2026-08-07,31,4,690,Delivered,Fries & Fizz,QSR,1,No
+ORD-1046,R005,South Indian,South,2026-08-08,28,5,235,Delivered,Curry Leaf Kitchen,Cloud Kitchen,1,No
+ORD-1047,R001,North Indian,North,2026-08-08,48,3,700,Delayed,Tandoori Tales,Dine-in,1,No
+ORD-1048,R003,Fast Food,North,2026-08-08,18,5,560,Delivered,Burger Barn,QSR,1,No
+ORD-1049,R001,North Indian,North,2026-08-09,30,5,230,Delivered,Tandoori Tales,Dine-in,1,No
+ORD-1050,R020,Fast Food,Central,2026-08-09,36,5,380,Delivered,Fries & Fizz,QSR,1,No
+ORD-1051,R018,Chinese,Central,2026-08-09,31,5,385,Delivered,Noodle Station,QSR,1,No
+ORD-1052,R003,Fast Food,North,2026-08-10,36,4,455,Delivered,Burger Barn,QSR,1,No
+ORD-1053,R015,South Indian,West,2026-08-11,24,5,685,Delivered,Filter Coffee & Meals,Dine-in,1,No
+ORD-1054,R015,South Indian,West,2026-08-11,25,5,295,Delivered,Filter Coffee & Meals,Dine-in,1,No
+ORD-1055,R011,South Indian,East,2026-08-11,29,2,305,Cancelled,Idli Express,QSR,1,No
+ORD-1056,R017,North Indian,Central,2026-08-12,32,5,1895,Delivered,Kebab Kingdom,Cloud Kitchen,1,No
+ORD-1057,R002,Chinese,North,2026-08-12,30,5,740,Delivered,Wok This Way,Cloud Kitchen,1,No
+ORD-1058,R008,Fast Food,South,2026-08-12,32,4,415,Delivered,Pizza Plaza,Dine-in,1,No
+ORD-1059,R008,Fast Food,South,2026-08-12,25,4,575,Delivered,Pizza Plaza,Dine-in,1,No
+ORD-1060,R007,North Indian,South,2026-08-13,26,4,285,Delivered,Punjabi Dhaba Express,QSR,1,No
+ORD-1061,R017,North Indian,Central,2026-08-13,39,4,320,Delivered,Kebab Kingdom,Cloud Kitchen,1,No
+ORD-1062,R009,North Indian,East,2026-08-13,99,1,535,Delayed,Masala Mantra,Cloud Kitchen,1,Yes
+ORD-1063,R003,Fast Food,North,2026-08-15,22,5,300,Delivered,Burger Barn,QSR,1,No
+ORD-1064,R013,North Indian,West,2026-08-15,30,4,520,Delivered,Royal Biryani House,Dine-in,1,No
+ORD-1065,R003,Fast Food,North,2026-08-17,26,1,310,Cancelled,Burger Barn,QSR,1,No
+ORD-1066,R013,North Indian,West,2026-08-18,14,5,455,Delivered,Royal Biryani House,Dine-in,1,No
+ORD-1067,R006,Chinese,South,2026-08-18,30,5,385,Delivered,Noodle Nest,QSR,1,No
+ORD-1068,R012,Fast Food,East,2026-08-19,21,5,225,Delivered,Crispy Crunch,Cloud Kitchen,1,No
+ORD-1069,R008,Fast Food,South,2026-08-20,43,5,715,Delivered,Pizza Plaza,Dine-in,1,No
+ORD-1070,R006,Chinese,South,2026-08-21,29,5,260,Delivered,Noodle Nest,QSR,1,No
+ORD-1071,R020,Fast Food,Central,2026-08-23,28,2,485,Cancelled,Fries & Fizz,QSR,1,No
+ORD-1072,R010,Chinese,East,2026-08-23,36,4,570,Delivered,Dragon Bowl,Dine-in,1,No
+ORD-1073,R006,Chinese,South,2026-08-24,22,5,375,Delivered,Noodle Nest,QSR,1,No
+ORD-1074,R019,South Indian,Central,2026-08-24,39,5,410,Delivered,Sambar Spot,Cloud Kitchen,1,No
+ORD-1075,R003,Fast Food,North,2026-08-25,35,3,275,Delivered,Burger Barn,QSR,1,No
+ORD-1076,R006,Chinese,South,2026-08-25,27,4,485,Delivered,Noodle Nest,QSR,1,No
+ORD-1077,R008,Fast Food,South,2026-08-27,36,3,855,Delivered,Pizza Plaza,Dine-in,1,No
+ORD-1078,R014,Chinese,West,2026-08-27,18,5,545,Delivered,Chopstick Corner,Cloud Kitchen,1,No
+ORD-1079,R009,North Indian,East,2026-08-28,33,4,280,Delivered,Masala Mantra,Cloud Kitchen,1,No
+ORD-1080,R008,Fast Food,South,2026-08-28,25,2,575,Cancelled,Pizza Plaza,Dine-in,1,No
+ORD-1081,R013,North Indian,West,2026-08-29,35,4,1015,Delivered,Royal Biryani House,Dine-in,1,No
+ORD-1082,R015,South Indian,West,2026-08-29,30,4,1185,Delivered,Filter Coffee & Meals,Dine-in,1,No
+ORD-1083,R002,Chinese,North,2026-08-30,38,5,575,Delivered,Wok This Way,Cloud Kitchen,1,No
+ORD-1084,R014,Chinese,West,2026-08-30,34,5,905,Delivered,Chopstick Corner,Cloud Kitchen,1,No
+ORD-1085,R009,North Indian,East,2026-08-31,31,5,255,Delivered,Masala Mantra,Cloud Kitchen,1,No
+ORD-1086,R016,Fast Food,West,2026-08-31,33,5,905,Delivered,Wrap & Roll,QSR,1,No
+ORD-1087,R005,South Indian,South,2026-09-01,22,5,755,Delivered,Curry Leaf Kitchen,Cloud Kitchen,1,No
+ORD-1088,R011,South Indian,East,2026-09-03,24,5,155,Delivered,Idli Express,QSR,1,No
+ORD-1089,R018,Chinese,Central,2026-09-03,35,4,405,Delivered,Noodle Station,QSR,1,No
+ORD-1090,R018,Chinese,Central,2026-09-03,112,1,510,Delayed,Noodle Station,QSR,1,Yes
+ORD-1091,R003,Fast Food,North,2026-09-05,30,4,290,Delivered,Burger Barn,QSR,1,No
+ORD-1092,R014,Chinese,West,2026-09-05,37,4,330,Delivered,Chopstick Corner,Cloud Kitchen,1,No
+ORD-1093,R018,Chinese,Central,2026-09-06,31,5,1130,Delivered,Noodle Station,QSR,1,No
+ORD-1094,R003,Fast Food,North,2026-09-07,17,5,860,Delivered,Burger Barn,QSR,1,No
+ORD-1095,R004,South Indian,North,2026-09-08,19,5,425,Delivered,Dosa Dynasty,Dine-in,1,No
+ORD-1096,R011,South Indian,East,2026-09-11,36,4,825,Delivered,Idli Express,QSR,1,No
+ORD-1097,R011,South Indian,East,2026-09-12,38,5,275,Delivered,Idli Express,QSR,1,No
+ORD-1098,R010,Chinese,East,2026-09-12,41,3,695,Delivered,Dragon Bowl,Dine-in,1,No
+ORD-1099,R018,Chinese,Central,2026-09-12,34,4,915,Delivered,Noodle Station,QSR,1,No
+ORD-1100,R007,North Indian,South,2026-09-12,30,5,225,Delivered,Punjabi Dhaba Express,QSR,1,No
+ORD-1101,R016,Fast Food,West,2026-09-12,31,4,275,Delivered,Wrap & Roll,QSR,1,No
+ORD-1102,R019,South Indian,Central,2026-09-14,43,3,650,Delivered,Sambar Spot,Cloud Kitchen,1,No
+ORD-1103,R011,South Indian,East,2026-09-15,88,2,440,Delayed,Idli Express,QSR,1,Yes
+ORD-1104,R009,North Indian,East,2026-09-15,24,5,665,Delivered,Masala Mantra,Cloud Kitchen,1,No
+ORD-1105,R019,South Indian,Central,2026-09-17,54,4,635,Delayed,Sambar Spot,Cloud Kitchen,1,Yes
+ORD-1106,R003,Fast Food,North,2026-09-17,25,5,515,Delivered,Burger Barn,QSR,1,No
+ORD-1107,R004,South Indian,North,2026-09-17,32,5,360,Delivered,Dosa Dynasty,Dine-in,1,No
+ORD-1108,R019,South Indian,Central,2026-09-17,36,4,235,Delivered,Sambar Spot,Cloud Kitchen,1,No
+ORD-1109,R016,Fast Food,West,2026-09-19,40,5,895,Delivered,Wrap & Roll,QSR,1,No
+ORD-1110,R020,Fast Food,Central,2026-09-21,37,4,510,Delivered,Fries & Fizz,QSR,1,No
+ORD-1111,R017,North Indian,Central,2026-09-22,33,4,495,Delivered,Kebab Kingdom,Cloud Kitchen,1,No
+ORD-1112,R012,Fast Food,East,2026-09-23,29,5,1015,Delivered,Crispy Crunch,Cloud Kitchen,1,No
+ORD-1113,R005,South Indian,South,2026-09-25,33,3,225,Delivered,Curry Leaf Kitchen,Cloud Kitchen,1,No
+ORD-1114,R016,Fast Food,West,2026-09-25,16,5,165,Delivered,Wrap & Roll,QSR,1,No
+ORD-1115,R013,North Indian,West,2026-09-26,28,4,305,Delivered,Royal Biryani House,Dine-in,1,No
+ORD-1116,R011,South Indian,East,2026-09-27,35,4,180,Delivered,Idli Express,QSR,1,No
+ORD-1117,R001,North Indian,North,2026-09-27,51,4,530,Delayed,Tandoori Tales,Dine-in,1,Yes
+ORD-1118,R019,South Indian,Central,2026-09-27,41,4,530,Delivered,Sambar Spot,Cloud Kitchen,1,No
+ORD-1119,R012,Fast Food,East,2026-09-28,34,4,545,Delivered,Crispy Crunch,Cloud Kitchen,1,No
+ORD-1120,R016,Fast Food,West,2026-09-30,28,5,360,Delivered,Wrap & Roll,QSR,1,No
